@@ -15,40 +15,40 @@
     <Control ControlPath="root\tc1\tpMain\pLeftView\pTvBtns" UniqueName="cbShowChecks" Text="Show Checkboxes (Merge/Delete)" />
     <Control ControlPath="root\tc1\tpMain\pLeftView\pTvBtns" UniqueName="cbLockDG" Text="&amp;Disable Table Auto-Refresh" />
     <Control ControlPath="root\tc1" UniqueName="tpOptions" Text="Options" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_XmlShare" UniqueName="groupBox4" Text="Incoming XML Shares" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_XmlShare\groupBox4\tableLayoutPanel2" UniqueName="btnShareDelete" Text="Delete Above Data" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_XmlShare\groupBox4\tableLayoutPanel2" UniqueName="btnShareRemoveBanned" Text="Remove" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_XmlShare\groupBox4\tableLayoutPanel2" UniqueName="btnShareAddBanned" Text="Add" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_XmlShare\groupBox4\tableLayoutPanel2" UniqueName="btnShareRemoveTrusted" Text="Remove" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_XmlShare\groupBox4\tableLayoutPanel2" UniqueName="groupBox5" Text="Automatically accept data from:" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_XmlShare\groupBox4\tableLayoutPanel2" UniqueName="groupBox6" Text="Automatically reject data from:" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_XmlShare\groupBox4\tableLayoutPanel2" UniqueName="btnShareAddTrusted" Text="Add" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_XmlShare\groupBox4\tableLayoutPanel2" UniqueName="btnShareImport" Text="Import Above Data" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_XmlSubs" UniqueName="groupBox1" Text="XML Config Subscriptions" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_XmlSubs\groupBox1\tableLayoutPanel1" UniqueName="btnSubAdd" Text="Add/Edit" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_XmlSubs\groupBox1\tableLayoutPanel1" UniqueName="btnSubRemove" Text="Remove" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_XmlSubs\groupBox1\tableLayoutPanel1" UniqueName="btnSubCheckNow" Text="Check Now" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_XmlSubs\groupBox1\tableLayoutPanel1" UniqueName="btnSubUpdateChecked" Text="Update Checked" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_XmlSubs\groupBox1" UniqueName="groupBox2" Text="Subscription Details" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_XmlSubs\groupBox1\groupBox2" UniqueName="linkSubBrowser" Text="View in browser" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_XmlSubs\groupBox1\groupBox2" UniqueName="btnSubQuery" Text="Query URL" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_XmlSubs\groupBox1\groupBox2" UniqueName="groupBox3" Text="Import Info Query" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_XmlShare" UniqueName="groupBox4" Text="XML共有" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_XmlShare\groupBox4\tableLayoutPanel2" UniqueName="btnShareDelete" Text="上記のデータを削除" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_XmlShare\groupBox4\tableLayoutPanel2" UniqueName="btnShareRemoveBanned" Text="削除" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_XmlShare\groupBox4\tableLayoutPanel2" UniqueName="btnShareAddBanned" Text="追加" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_XmlShare\groupBox4\tableLayoutPanel2" UniqueName="btnShareRemoveTrusted" Text="削除" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_XmlShare\groupBox4\tableLayoutPanel2" UniqueName="groupBox5" Text="自動的に許可するキャラクター名:" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_XmlShare\groupBox4\tableLayoutPanel2" UniqueName="groupBox6" Text="自動的に拒否するキャラクター名:" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_XmlShare\groupBox4\tableLayoutPanel2" UniqueName="btnShareAddTrusted" Text="追加" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_XmlShare\groupBox4\tableLayoutPanel2" UniqueName="btnShareImport" Text="上記のデータをインポート" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_XmlSubs" UniqueName="groupBox1" Text="XML設定のサブスクリプションURLリスト" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_XmlSubs\groupBox1\tableLayoutPanel1" UniqueName="btnSubAdd" Text="追加/編集" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_XmlSubs\groupBox1\tableLayoutPanel1" UniqueName="btnSubRemove" Text="削除" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_XmlSubs\groupBox1\tableLayoutPanel1" UniqueName="btnSubCheckNow" Text="チェック" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_XmlSubs\groupBox1\tableLayoutPanel1" UniqueName="btnSubUpdateChecked" Text="チェック済みを更新" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_XmlSubs\groupBox1" UniqueName="groupBox2" Text="サブスクリプションの詳細" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_XmlSubs\groupBox1\groupBox2" UniqueName="linkSubBrowser" Text="ブラウザで開く" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_XmlSubs\groupBox1\groupBox2" UniqueName="btnSubQuery" Text="送信" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_XmlSubs\groupBox1\groupBox2" UniqueName="groupBox3" Text="インポート情報クエリ" />
     <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_XmlSubs\groupBox1\groupBox2" UniqueName="label2" Text="URL" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_XmlSubs\groupBox1\groupBox2" UniqueName="rbSubAuto" Text="Import Updated Files on Startup" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_XmlSubs\groupBox1\groupBox2" UniqueName="rbSubNotify" Text="Notify of Updated Files" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_XmlSubs\groupBox1\groupBox2" UniqueName="rbSubIgnore" Text="Ignore Updated Files" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_LcdGeneral" UniqueName="btnLcdAddPersonalPreset" Text="Add Preset" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_LcdGeneral" UniqueName="btnLcdAddMiniPreset" Text="Add Preset" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_LcdGeneral" UniqueName="lblPersonalParseFormat" Text="Personal Parse Formatting" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_LcdGeneral" UniqueName="lblLcdMiniFormat" Text="LCD-Parse Text Formatting" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_LcdGeneral" UniqueName="btnLcdRemovePersonalPreset" Text="Remove" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_LcdGeneral" UniqueName="btnLcdRemoveMiniPreset" Text="Remove" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_LcdGeneral" UniqueName="cbLcdEnabled" Text="Enable the LCD Display" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_LcdGeneral" UniqueName="lblLcdQuery" Text="Disconnected." />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_LcdGeneral" UniqueName="cbLcdRoute" Text="Route to Clipboard Sharer (If available)" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_LcdMono" UniqueName="btnLcdFont" Text="Font" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_LcdMono" UniqueName="label56" Text="Master Font" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_LcdMono" UniqueName="groupBox9" Text="Page Text Settings" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_XmlSubs\groupBox1\groupBox2" UniqueName="rbSubAuto" Text="開始時に更新ファイルをインポート" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_XmlSubs\groupBox1\groupBox2" UniqueName="rbSubNotify" Text="更新ファイルを通知" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_XmlSubs\groupBox1\groupBox2" UniqueName="rbSubIgnore" Text="更新ファイルを無視" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_LcdGeneral" UniqueName="btnLcdAddPersonalPreset" Text="プリセット追加" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_LcdGeneral" UniqueName="btnLcdAddMiniPreset" Text="プリセット追加" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_LcdGeneral" UniqueName="lblPersonalParseFormat" Text="個人用の解析フォーマット:" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_LcdGeneral" UniqueName="lblLcdMiniFormat" Text="LCDの解析フォーマット:" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_LcdGeneral" UniqueName="btnLcdRemovePersonalPreset" Text="削除" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_LcdGeneral" UniqueName="btnLcdRemoveMiniPreset" Text="削除" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_LcdGeneral" UniqueName="cbLcdEnabled" Text="LCDディスプレイを有効化" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_LcdGeneral" UniqueName="lblLcdQuery" Text="未接続" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_LcdGeneral" UniqueName="cbLcdRoute" Text="クリップボード共有に転送する(可能であれば)" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_LcdMono" UniqueName="btnLcdFont" Text="フォント" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_LcdMono" UniqueName="label56" Text="マスターフォント" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_LcdMono" UniqueName="groupBox9" Text="テキスト設定" />
     <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_LcdMono\groupBox9\panel1" UniqueName="label57" Text="MiniParse" />
     <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_LcdMono\groupBox9\panel1" UniqueName="label58" Text="V-Spacing" />
     <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_LcdMono\groupBox9\panel1" UniqueName="label50" Text="Size Offset" />
@@ -61,380 +61,380 @@
     <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_LcdMono\groupBox9\panel12" UniqueName="label65" Text="Sort Bars" />
     <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_LcdMono\groupBox9\panel12" UniqueName="label66" Text="V-Spacing" />
     <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_LcdMono\groupBox9\panel12" UniqueName="label67" Text="Size Offset" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_LcdMono" UniqueName="groupBox7" Text="LCD Preview" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_LcdMono" UniqueName="groupBox7" Text="LCDプレビュー" />
     <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_LcdColor" UniqueName="label4" Text="Personal Parse" />
     <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_LcdColor" UniqueName="label3" Text="Mini Parse" />
     <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_LcdColor" UniqueName="label2" Text="V-Spacing" />
     <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_LcdColor" UniqueName="label1" Text="V-Spacing" />
     <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_LcdColor" UniqueName="fccLcdPersonal" Text=" " />
     <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_LcdColor\fccLcdPersonal" UniqueName="lblText" Text=" " />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_LcdColor\fccLcdPersonal" UniqueName="lblForeColor" Text="Forecolor" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_LcdColor\fccLcdPersonal" UniqueName="lblForeColor" Text="文字色" />
     <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_LcdColor\fccLcdPersonal" UniqueName="btnFontDisplay" Text="Change Font" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_LcdColor\fccLcdPersonal" UniqueName="lblBackColor" Text="Backcolor" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_LcdColor\fccLcdPersonal" UniqueName="lblBackColor" Text="背景色" />
     <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_LcdColor" UniqueName="fccLcdMini" Text=" " />
     <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_LcdColor\fccLcdMini" UniqueName="lblText" Text=" " />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_LcdColor\fccLcdMini" UniqueName="lblForeColor" Text="Forecolor" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_LcdColor\fccLcdMini" UniqueName="lblForeColor" Text="文字色" />
     <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_LcdColor\fccLcdMini" UniqueName="btnFontDisplay" Text="Change Font" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_LcdColor\fccLcdMini" UniqueName="lblBackColor" Text="Backcolor" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_LcdColor" UniqueName="groupBox10" Text="LCD Preview" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_EncCulling" UniqueName="groupBox30" Text="General Culling Settings" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_EncCulling\groupBox30" UniqueName="cbCullNoAlly" Text="Cull all encounters marked &quot;Encounter&quot;  (no allies)" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_EncCulling\groupBox30" UniqueName="cbCullCountIgnoreNoAlly" Text="Don't count &quot;Encounter&quot; labeled encounters for this count." />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_EncCulling\groupBox30" UniqueName="cbCullCount" Text="Cull old encounters when there are this many normal encounters total:" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_EncCulling\groupBox30" UniqueName="cbCullTimer" Text="Cull normal encounters created longer than this many minutes ago:" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_EncCulling" UniqueName="groupBox31" Text="Previous Zone Culling" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_EncCulling\groupBox31" UniqueName="cbCullOther" Text="Cull other encounters from previous zones this many ago:" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_EncCulling\groupBox31" UniqueName="cbCullAll" Text="Cull the &quot;All&quot; encounter from this many zones ago:" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_LcdColor\fccLcdMini" UniqueName="lblBackColor" Text="背景色" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_LcdColor" UniqueName="groupBox10" Text="LCDプレビュー" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_EncCulling" UniqueName="groupBox30" Text="全般的な設定" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_EncCulling\groupBox30" UniqueName="cbCullNoAlly" Text="現在のエンカウントで計測中の敵のみ表示する" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_EncCulling\groupBox30" UniqueName="cbCullCountIgnoreNoAlly" Text="&quot;Encounter&quot; としてラベリング済みの敵はカウントしない" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_EncCulling\groupBox30" UniqueName="cbCullCount" Text="過去に戦闘を行った敵を次の合計数まで継続して表示する:" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_EncCulling\groupBox30" UniqueName="cbCullTimer" Text="エンカウントから一定時間が経過した敵は除外する(単位:分):" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_EncCulling" UniqueName="groupBox31" Text="エリア移動時の設定" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_EncCulling\groupBox31" UniqueName="cbCullOther" Text="その他のエンカウントで計測を続けるエリア数:" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_EncCulling\groupBox31" UniqueName="cbCullAll" Text="&quot;All&quot; エンカウントで計測を続けるエリア数:" />
     <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_MiniParse" UniqueName="fccMiniParse" Text=" " />
     <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_MiniParse\fccMiniParse" UniqueName="lblText" Text=" " />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_MiniParse\fccMiniParse" UniqueName="lblForeColor" Text="Forecolor" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_MiniParse\fccMiniParse" UniqueName="lblForeColor" Text="文字色" />
     <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_MiniParse\fccMiniParse" UniqueName="btnFontDisplay" Text="Change Font" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_MiniParse\fccMiniParse" UniqueName="lblBackColor" Text="Backcolor" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_MiniParse" UniqueName="btnAddPresetMini" Text="Add Preset" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_MiniParse" UniqueName="label44" Text="Window Opacity" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_MiniParse" UniqueName="label89" Text="Mini-Parse Text Formatting:" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_MiniParse" UniqueName="label23" Text="seconds." />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_MiniParse" UniqueName="label22" Text="Update interval:" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_MiniParse" UniqueName="cbRestoreEncBox" Text="Hide Mini Parse on application restore" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_MiniParse" UniqueName="cbSmallEncTop" Text="Mini Parse - Always On Top" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_MiniParse" UniqueName="cbMiniColumnAlign" Text="Align text to appear in columns based on cell contents" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_MiniParse" UniqueName="cbMiniClickThrough" Text="Allow mouse clicks to pass through.   (Win2k or above required)" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_MiniParse" UniqueName="cbMinEncBox" Text="Minimize application to Mini Parse window" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_MiniParse" UniqueName="btnRemovePresetMini" Text="Remove" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_TableZone" UniqueName="btnTableDefaults" Text="Reset Columns to Default" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_TableZone" UniqueName="gbTableDepth1" Text="Zone View" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_TableEnc" UniqueName="btnTableDefaults" Text="Reset Columns to Default" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_TableEnc" UniqueName="gbTableDepth2" Text="Encounter View" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_TableEnc\gbTableDepth2" UniqueName="lblSortby1" Text="Sort #1:" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_MiniParse\fccMiniParse" UniqueName="lblBackColor" Text="背景色" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_MiniParse" UniqueName="btnAddPresetMini" Text="プリセットを追加" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_MiniParse" UniqueName="label44" Text="ウィンドウの不透明度" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_MiniParse" UniqueName="label89" Text="Mini-Parse テキストフォーマット:" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_MiniParse" UniqueName="label23" Text="秒" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_MiniParse" UniqueName="label22" Text="更新間隔:" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_MiniParse" UniqueName="cbRestoreEncBox" Text="アプリケーションのリストア時にMini Parseを隠す" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_MiniParse" UniqueName="cbSmallEncTop" Text="Mini Parseを常に最前面に表示する" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_MiniParse" UniqueName="cbMiniColumnAlign" Text="セルコンテンツに基づいてテキストを整列する" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_MiniParse" UniqueName="cbMiniClickThrough" Text="マウスクリックを無効化する(Windows2000以降で有効)" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_MiniParse" UniqueName="cbMinEncBox" Text="Mini Parseウィンドウにアプリケーションを最小化する" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_MiniParse" UniqueName="btnRemovePresetMini" Text="削除" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_TableZone" UniqueName="btnTableDefaults" Text="表示する項目をリセット" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_TableZone" UniqueName="gbTableDepth1" Text="Zone Viewで表示する項目" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_TableEnc" UniqueName="btnTableDefaults" Text="表示する項目をリセット" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_TableEnc" UniqueName="gbTableDepth2" Text="Encounter Viewで表示する項目" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_TableEnc\gbTableDepth2" UniqueName="lblSortby1" Text="ソート #1:" />
     <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_TableEnc\gbTableDepth2" UniqueName="btnEDSort" Text="EncDPS" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_TableEnc\gbTableDepth2" UniqueName="label47" Text="Sort #2:" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_TableEnc\gbTableDepth2" UniqueName="label47" Text="ソート #2:" />
     <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_TableEnc\gbTableDepth2" UniqueName="btnEDSort2" Text="Duration" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_TableCombatant" UniqueName="btnTableDefaults" Text="Reset Columns to Default" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_TableCombatant" UniqueName="gbTableDepth3" Text="Combatant View" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_TableDamageType" UniqueName="btnTableDefaults" Text="Reset Columns to Default" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_TableDamageType" UniqueName="gbTableDepth4" Text="Damage Types View" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_TableDamageType\gbTableDepth4" UniqueName="lblSortby2" Text="Sort #1:" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_TableCombatant" UniqueName="btnTableDefaults" Text="表示する項目をリセット" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_TableCombatant" UniqueName="gbTableDepth3" Text="Combatant Viewで表示する項目" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_TableDamageType" UniqueName="btnTableDefaults" Text="表示する項目をリセット" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_TableDamageType" UniqueName="gbTableDepth4" Text="Damage Types Viewで表示する項目" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_TableDamageType\gbTableDepth4" UniqueName="lblSortby2" Text="ソート #1:" />
     <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_TableDamageType\gbTableDepth4" UniqueName="btnMDSort" Text="Damage" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_TableDamageType\gbTableDepth4" UniqueName="label48" Text="Sort #2:" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_TableDamageType\gbTableDepth4" UniqueName="label48" Text="ソート #2:" />
     <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_TableDamageType\gbTableDepth4" UniqueName="btnMDSort2" Text="Duration" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_TableAttackType" UniqueName="gbTableDepth5" Text="Attack Type View" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_TableAttackType\gbTableDepth5" UniqueName="lblSortby3" Text="Sort #1:" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_TableAttackType" UniqueName="gbTableDepth5" Text="Attack Type Viewで表示する項目" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_TableAttackType\gbTableDepth5" UniqueName="lblSortby3" Text="ソート #1:" />
     <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_TableAttackType\gbTableDepth5" UniqueName="btnATSort" Text="Time" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_TableAttackType\gbTableDepth5" UniqueName="label49" Text="Sort #2:" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_TableAttackType\gbTableDepth5" UniqueName="label49" Text="ソート #2:" />
     <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_TableAttackType\gbTableDepth5" UniqueName="btnATSort2" Text="Time" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_TableAttackType" UniqueName="btnTableDefaults" Text="Reset Columns to Default" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_MainTableGen\groupBox6" UniqueName="cbTableCommas" Text="Show thousand separators in the Main tab tables" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_MainTableGen\groupBox6" UniqueName="cbReverseSort" Text="Reverse the sorting order of the main table.  (Decending order)" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_MainTableGen\groupBox6" UniqueName="label2" Text="Main table update frequency in seconds:" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_MainTableGen" UniqueName="cbIdleEnd" Text="Number of seconds to wait after the last combat action to begin a new encounter." />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_MainTableGen" UniqueName="cbIdleTimerEnd" Text="Use an internal timer to count down instead of relying only on logfile timestamps." />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Graphing" UniqueName="cbBarGraphUseSuffixDecimals" Text="Use decimals" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Graphing" UniqueName="cbGraphsUseSuffix" Text="In Graphs, simplify numbers to use K/M/B suffixes" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Graphing" UniqueName="groupBox2" Text="Advanced Graph Options" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Graphing\groupBox2" UniqueName="label1" Text="DamageType categories to include in combatant line graphs." />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Graphing\groupBox2" UniqueName="label92" Text="For line graphs, set the plot points to include the average of the last N seconds:" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Graphing\groupBox2" UniqueName="label11" Text="CPU Priority of graph generation:" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Graphing\groupBox2" UniqueName="cbGraphRollingAvg" Text="Graph lines show a rolling average instead of grouped together segments of time" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Graphing" UniqueName="rbGraphAdv" Text="Advanced DPS over time graphs.  (CPU Intensive)" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Graphing" UniqueName="cbSimpleGraphTotals" Text="Show Totals &amp;&amp; Average" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Graphing" UniqueName="cbOnlyGraphAllies" Text="Only show allies" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Graphing" UniqueName="rbGraphSimple" Text="Simple bar graphs depicting the current sort." />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_TextExports" UniqueName="cbExportFilterSpace" Text="For text exports, filter out combatants with spaces in their name. (Possible swarm pets)" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_TextExports" UniqueName="label3" Text="Clipboard Formatting:" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_TextExports" UniqueName="groupBox35" Text="Export to EQ2 Macro File after combat." />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_TextExports\groupBox35" UniqueName="lblExFile3" Text="EQ2 Command: /do_file_commands" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_TextExports\groupBox35" UniqueName="btnExFileRemovePreset" Text="Remove" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_TextExports\groupBox35" UniqueName="btnExFileAddPreset" Text="Add" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_TextExports\groupBox35" UniqueName="lblExFile2" Text="Channel command&#xD;&#xA;(gsay, raidsay, tellchannel)" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_TextExports\groupBox35" UniqueName="lblExFile1" Text="Formatting:" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_TextExports\groupBox35" UniqueName="lblExFileLines" Text="Maximum number of lines to attempt to export" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_TextExports\groupBox35" UniqueName="cbExFileColumnAlign" Text="Align text to appear in columns based on cell contents" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_TextExports" UniqueName="btnAddPresetClip" Text="Add Preset" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_TextExports" UniqueName="btnRemovePresetClip" Text="Remove" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_TextExports" UniqueName="cbExText" Text="Export to Clipboard after combat." />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Odbc" UniqueName="groupBox25" Text="ODBC Database" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Odbc\groupBox25" UniqueName="gbOdbcHacks" Text="DataSource Compatability Hacks  (Regular Expressions)" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Odbc\groupBox25\gbOdbcHacks\tableLayoutPanel2" UniqueName="label2" Text="Find" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Odbc\groupBox25\gbOdbcHacks\tableLayoutPanel2" UniqueName="label3" Text="Replace" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Odbc\groupBox25\gbOdbcHacks" UniqueName="btnResetOdbcHacks" Text="Reset" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Odbc\groupBox25\gbOdbcHacks" UniqueName="btnOdbcHackRemove" Text="Remove" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Odbc\groupBox25\gbOdbcHacks" UniqueName="btnOdbcHackAdd" Text="Add" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Odbc\groupBox25\gbOdbcHacks" UniqueName="label1" Text="Connection String Match" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Odbc\groupBox25" UniqueName="cbCurrentOdbc" Text="Export a table of the current encounter every N seconds." />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Odbc\groupBox25" UniqueName="linkLabelOdbcControl" Text="Open ODBC Control Applet" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Odbc\groupBox25\tableLayoutPanel1" UniqueName="btnOdbcTestConnection" Text="Test Connection" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Odbc\groupBox25\tableLayoutPanel1" UniqueName="btnOdbcValidateTables" Text="Validate Table Setup" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Odbc\groupBox25\tableLayoutPanel1" UniqueName="btnOdbcDropTables" Text="Drop Tables" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Odbc\groupBox25" UniqueName="label54" Text="Select the database table depth:" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Odbc\groupBox25" UniqueName="rbOdbcEx5" Text="Export down to specific swings (large DB req)" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Odbc\groupBox25" UniqueName="rbOdbcEx4" Text="Export down to AttackType tables" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Odbc\groupBox25" UniqueName="rbOdbcEx3" Text="Export down to combatant DamageTypes" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Odbc\groupBox25" UniqueName="rbOdbcEx2" Text="Export down to Encounter details" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Odbc\groupBox25" UniqueName="rbOdbcEx1" Text="Export Master Encounter list only" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Odbc\groupBox25" UniqueName="linkLabelConnectionString" Text="Connection String:" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Odbc\groupBox25" UniqueName="label53" Text="Advanced Users Only" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Odbc\groupBox25" UniqueName="cbSqlSafeMode" Text="Send one row per INSERT statement. (Debug/MSSQL)" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Odbc\groupBox25" UniqueName="cbExOdbc" Text="Export data to an ODBC DB after combat" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_FileHTML" UniqueName="groupBox15" Text="Fullscreen HTML Viewing" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_FileHTML\groupBox15" UniqueName="label1" Text="seconds:" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_FileHTML\groupBox15" UniqueName="label25" Text="Every" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_FileHTML\groupBox15" UniqueName="linkLabelHTMLTutorial" Text="Tutorial" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_FileHTML\groupBox15" UniqueName="btnClearHTML" Text="Clear All" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_FileHTML\groupBox15" UniqueName="cbHTMLCullEncounters" Text="Automatically cull the number of listed encounters to a specified amount:" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_FileHTML\groupBox15" UniqueName="groupBox16" Text="FTP Settings" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_FileHTML\groupBox15\groupBox16" UniqueName="rbExFTPActive" Text="Active" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_FileHTML\groupBox15\groupBox16" UniqueName="btnExFTPTest" Text="Test these settings" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_FileHTML\groupBox15\groupBox16" UniqueName="label34" Text="Advanced Users Only" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_FileHTML\groupBox15\groupBox16" UniqueName="label33" Text="Connection Type" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_FileHTML\groupBox15\groupBox16" UniqueName="label28" Text="Server Address" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_FileHTML\groupBox15\groupBox16" UniqueName="cbExHTMLFTP" Text="Send EQ2 HTML files to FTP server" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_FileHTML\groupBox15\groupBox16" UniqueName="label29" Text="Set Initial Path upon login" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_FileHTML\groupBox15\groupBox16" UniqueName="label30" Text="User Name" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_FileHTML\groupBox15\groupBox16" UniqueName="label31" Text="Password" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_FileHTML\groupBox15\groupBox16" UniqueName="label32" Text="Remote Port" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_FileHTML\groupBox15\groupBox16" UniqueName="rbExFTPPassive" Text="Passive" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_FileHTML\groupBox15" UniqueName="btnExportUIBrowser" Text="Set EQ2 homepage and/or replace UI" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_FileHTML\groupBox15" UniqueName="cbHtmlTimers" Text="Every second generate a Timers Window HTML page" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_FileHTML\groupBox15" UniqueName="cbExGraph" Text="Include Encounter graph " />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_FileHTML\groupBox15" UniqueName="cbCurrentTable" Text="Generate a main encounter table." />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_FileHTML\groupBox15" UniqueName="cbCurrentGraph" Text="Generate a graph of the current encounter." />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_FileHTML\groupBox15" UniqueName="cbExHTML" Text="Export static HTML files to view with /browser" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_TableAttackType" UniqueName="btnTableDefaults" Text="表示する項目をリセット" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_MainTableGen\groupBox6" UniqueName="cbTableCommas" Text="メインテーブルで桁区切りを表示する" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_MainTableGen\groupBox6" UniqueName="cbReverseSort" Text="メインテーブルのソート順を反転する(降順)" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_MainTableGen\groupBox6" UniqueName="label2" Text="メインテーブルの更新頻度(単位:秒):" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_MainTableGen" UniqueName="cbIdleEnd" Text="最後の戦闘から次の秒数が経過したら新しいエンカウントを始める:" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_MainTableGen" UniqueName="cbIdleTimerEnd" Text="ログファイルのタイムスタンプの代わりに内部タイマーを使ってカウントする" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Graphing" UniqueName="cbBarGraphUseSuffixDecimals" Text="小数点以下を表示" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Graphing" UniqueName="cbGraphsUseSuffix" Text="グラフ上の数値の表示単位として K/M/B を使用する(例:10,000→10K )" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Graphing" UniqueName="groupBox2" Text="高度なグラフ設定" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Graphing\groupBox2" UniqueName="label1" Text="グラフに表示するDamageTypeカテゴリ" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Graphing\groupBox2" UniqueName="label92" Text="線グラフにおいて平均値を計測する範囲に含める直近の秒数:" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Graphing\groupBox2" UniqueName="label11" Text="グラフ描画のCPU優先度:" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Graphing\groupBox2" UniqueName="cbGraphRollingAvg" Text="グラフの描画に移動平均を使用する" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Graphing" UniqueName="rbGraphAdv" Text="高度なDPSグラフ描画を行う(CPU負荷がかかります)" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Graphing" UniqueName="cbSimpleGraphTotals" Text="合計と平均を表示" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Graphing" UniqueName="cbOnlyGraphAllies" Text="エイリアスのみ表示" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Graphing" UniqueName="rbGraphSimple" Text="シンプルな棒グラフで描画する" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_TextExports" UniqueName="cbExportFilterSpace" Text="テキストをエクスポートするためにキャラクター名に含まれる空白を削除する" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_TextExports" UniqueName="label3" Text="クリップボードフォーマット:" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_TextExports" UniqueName="groupBox35" Text="戦闘終了後にEQ2のマクロファイルをエクスポートする" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_TextExports\groupBox35" UniqueName="lblExFile3" Text="EQ2コマンド: /do_file_commands" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_TextExports\groupBox35" UniqueName="btnExFileRemovePreset" Text="削除" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_TextExports\groupBox35" UniqueName="btnExFileAddPreset" Text="追加" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_TextExports\groupBox35" UniqueName="lblExFile2" Text="チャンネルコマンド&#xD;&#xA;(gsay, raidsay, tellchannel)" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_TextExports\groupBox35" UniqueName="lblExFile1" Text="フォーマット:" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_TextExports\groupBox35" UniqueName="lblExFileLines" Text="エクスポートを行う最大行数" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_TextExports\groupBox35" UniqueName="cbExFileColumnAlign" Text="セルコンテンツに基づいてカラム内のテキストを整列する" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_TextExports" UniqueName="btnAddPresetClip" Text="プリセット追加" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_TextExports" UniqueName="btnRemovePresetClip" Text="削除" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_TextExports" UniqueName="cbExText" Text="戦闘終了後にクリップボードへエクスポートする" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Odbc" UniqueName="groupBox25" Text="ODBCデータベース" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Odbc\groupBox25" UniqueName="gbOdbcHacks" Text="データソースの互換性ハック(正規表現)" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Odbc\groupBox25\gbOdbcHacks\tableLayoutPanel2" UniqueName="label2" Text="検索" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Odbc\groupBox25\gbOdbcHacks\tableLayoutPanel2" UniqueName="label3" Text="置換" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Odbc\groupBox25\gbOdbcHacks" UniqueName="btnResetOdbcHacks" Text="リセット" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Odbc\groupBox25\gbOdbcHacks" UniqueName="btnOdbcHackRemove" Text="削除" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Odbc\groupBox25\gbOdbcHacks" UniqueName="btnOdbcHackAdd" Text="追加" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Odbc\groupBox25\gbOdbcHacks" UniqueName="label1" Text="接続文字列の照合" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Odbc\groupBox25" UniqueName="cbCurrentOdbc" Text="現在のエンカウントテーブルを次の秒数ごとにエクスポートする:" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Odbc\groupBox25" UniqueName="linkLabelOdbcControl" Text="ODBCコントロールパネルを開く" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Odbc\groupBox25\tableLayoutPanel1" UniqueName="btnOdbcTestConnection" Text="接続テスト" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Odbc\groupBox25\tableLayoutPanel1" UniqueName="btnOdbcValidateTables" Text="テーブルセットアップを検証" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Odbc\groupBox25\tableLayoutPanel1" UniqueName="btnOdbcDropTables" Text="テーブルをドロップ" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Odbc\groupBox25" UniqueName="label54" Text="データベーステーブルの深さを選択:" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Odbc\groupBox25" UniqueName="rbOdbcEx5" Text="詳細なエクスポート(大きなDBが必要です)" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Odbc\groupBox25" UniqueName="rbOdbcEx4" Text="AttackTypeテーブルをエクスポート" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Odbc\groupBox25" UniqueName="rbOdbcEx3" Text="DamageTypesをエクスポート" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Odbc\groupBox25" UniqueName="rbOdbcEx2" Text="エンカウントの詳細をエクスポート" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Odbc\groupBox25" UniqueName="rbOdbcEx1" Text="マスターエンカウントリストのみエクスポート" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Odbc\groupBox25" UniqueName="linkLabelConnectionString" Text="接続文字列:" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Odbc\groupBox25" UniqueName="label53" Text="！高度な設定" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Odbc\groupBox25" UniqueName="cbSqlSafeMode" Text="INSERTステートメントごとにrowを送信(Debug/MSSQL)" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Odbc\groupBox25" UniqueName="cbExOdbc" Text="戦闘終了後にODBCデータベースへデータをエクスポートする" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_FileHTML" UniqueName="groupBox15" Text="フルスクリーンでのHTML表示" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_FileHTML\groupBox15" UniqueName="label1" Text="秒ごとに" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_FileHTML\groupBox15" UniqueName="label25" Text="" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_FileHTML\groupBox15" UniqueName="linkLabelHTMLTutorial" Text="チュートリアル" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_FileHTML\groupBox15" UniqueName="btnClearHTML" Text="すべてクリア" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_FileHTML\groupBox15" UniqueName="cbHTMLCullEncounters" Text="次で指定した数のエンカウントを超えた場合は自動で削除:" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_FileHTML\groupBox15" UniqueName="groupBox16" Text="FTP設定" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_FileHTML\groupBox15\groupBox16" UniqueName="rbExFTPActive" Text="アクティブ" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_FileHTML\groupBox15\groupBox16" UniqueName="btnExFTPTest" Text="設定テスト" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_FileHTML\groupBox15\groupBox16" UniqueName="label34" Text="！高度な設定" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_FileHTML\groupBox15\groupBox16" UniqueName="label33" Text="接続タイプ" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_FileHTML\groupBox15\groupBox16" UniqueName="label28" Text="サーバアドレス" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_FileHTML\groupBox15\groupBox16" UniqueName="cbExHTMLFTP" Text="EQ2のHTMLファイルをFTPサーバへ送信" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_FileHTML\groupBox15\groupBox16" UniqueName="label29" Text="ログイン時の初期パス" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_FileHTML\groupBox15\groupBox16" UniqueName="label30" Text="ユーザ名" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_FileHTML\groupBox15\groupBox16" UniqueName="label31" Text="パスワード" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_FileHTML\groupBox15\groupBox16" UniqueName="label32" Text="リモートポート" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_FileHTML\groupBox15\groupBox16" UniqueName="rbExFTPPassive" Text="パッシブ" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_FileHTML\groupBox15" UniqueName="btnExportUIBrowser" Text="EQ2のホームページをセット" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_FileHTML\groupBox15" UniqueName="cbHtmlTimers" Text="Timer Window HTMLページを毎秒生成する" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_FileHTML\groupBox15" UniqueName="cbExGraph" Text="エンカウンターグラフを含める" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_FileHTML\groupBox15" UniqueName="cbCurrentTable" Text="メインエンカウントテーブルを生成" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_FileHTML\groupBox15" UniqueName="cbCurrentGraph" Text="現在のエンカウントのグラフを生成" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_FileHTML\groupBox15" UniqueName="cbExHTML" Text="ブラウザで表示する静的HTMLファイルをエクスポート" />
     <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_FileHTML\groupBox15" UniqueName="label15" Text="X" />
     <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_FileHTML\groupBox15" UniqueName="label18" Text="Y" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_FileHTML\groupBox15" UniqueName="lblGraphXY" Text="Desired size in pixels of the HTML graph images." />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_WebServer" UniqueName="groupBox28" Text="HTML Interface Web Server" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_WebServer\groupBox28" UniqueName="btnEchoRecent" Text="Echo All Recent Clients" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_WebServer\groupBox28" UniqueName="btnEchoAll" Text="Echo All Clients" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_WebServer\groupBox28" UniqueName="cbWebServerShowReq" Text="Show all HTTP requests" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_WebServer\groupBox28" UniqueName="lblWebServerPort" Text="Server Listening Port:" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_WebServer\groupBox28" UniqueName="cbWebServerEnabled" Text="Enable Web Server" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_WebServer\groupBox28" UniqueName="lblWebServerConnections" Text="Server Status" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_FileHTML\groupBox15" UniqueName="lblGraphXY" Text="HTMLグラフ画像のサイズ設定" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_WebServer" UniqueName="groupBox28" Text="HTMLインタフェースWebサーバ " />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_WebServer\groupBox28" UniqueName="btnEchoRecent" Text="直近のクライアントにエコー" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_WebServer\groupBox28" UniqueName="btnEchoAll" Text="すべてのクライアントにエコー" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_WebServer\groupBox28" UniqueName="cbWebServerShowReq" Text="すべてのHTTPリクエストを表示" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_WebServer\groupBox28" UniqueName="lblWebServerPort" Text="待ち受けポート:" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_WebServer\groupBox28" UniqueName="cbWebServerEnabled" Text="Webサーバを有効化" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_WebServer\groupBox28" UniqueName="lblWebServerConnections" Text="サーバステータス" />
     <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Sound\tableLayoutPanel6" UniqueName="rbSndMiscTTS" Text="TTS:" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Sound\tableLayoutPanel6" UniqueName="rbSndMiscNone" Text="None" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Sound\tableLayoutPanel6" UniqueName="rbSndMiscNone" Text="なし" />
     <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Sound\tableLayoutPanel6" UniqueName="rbSndMiscWAV" Text="WAV:" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Sound\tableLayoutPanel6" UniqueName="rbSndMiscBeep" Text="Beep" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Sound\tableLayoutPanel6" UniqueName="lblMiscSound" Text="Misc sound:" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Sound\tableLayoutPanel6" UniqueName="rbSndMiscBeep" Text="ビープ音" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Sound\tableLayoutPanel6" UniqueName="lblMiscSound" Text="その他:" />
     <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Sound\tableLayoutPanel6" UniqueName="btnSndMiscBrowse" Text="..." />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Sound\tableLayoutPanel5" UniqueName="rbSndCommandTTS" Text="TTS " />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Sound\tableLayoutPanel5" UniqueName="rbSndCommandNone" Text="None" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Sound\tableLayoutPanel5" UniqueName="rbSndCommandTTS" Text="TTS:" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Sound\tableLayoutPanel5" UniqueName="rbSndCommandNone" Text="なし" />
     <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Sound\tableLayoutPanel5" UniqueName="rbSndCommandWAV" Text="WAV:" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Sound\tableLayoutPanel5" UniqueName="rbSndCommandBeep" Text="Beep" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Sound\tableLayoutPanel5" UniqueName="lblCommandSound" Text="Command sound:" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Sound\tableLayoutPanel5" UniqueName="rbSndCommandBeep" Text="ビープ音" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Sound\tableLayoutPanel5" UniqueName="lblCommandSound" Text="コマンド実行時:" />
     <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Sound\tableLayoutPanel5" UniqueName="btnSndCommandBrowse" Text="..." />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Sound\pAudioDevice" UniqueName="rbSndPlugin" Text="Plugin Sound" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Sound\pAudioDevice" UniqueName="rbSndWmpApi" Text="Use WMP API Sound (Volume control, multiple sounds, slight latency)" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Sound\pAudioDevice" UniqueName="rbSndWinApi" Text="Use Windows API Sound  (No volume control, one sound at a time)" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Sound\pAudioDevice" UniqueName="label93" Text="TTS Vol" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Sound\pAudioDevice" UniqueName="label12" Text="Wav Vol" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Sound\tableLayoutPanel4" UniqueName="rbSndTimerTTS" Text="TTS " />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Sound\tableLayoutPanel4" UniqueName="rbSndTimerNone" Text="None" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Sound\pAudioDevice" UniqueName="rbSndPlugin" Text="プラグインサウンド" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Sound\pAudioDevice" UniqueName="rbSndWmpApi" Text="WMP API サウンド (音量制御あり, マルチサウンド)" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Sound\pAudioDevice" UniqueName="rbSndWinApi" Text="Windows API サウンド (音量制御なし, シングルサウンド)" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Sound\pAudioDevice" UniqueName="label93" Text="TTS 音量" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Sound\pAudioDevice" UniqueName="label12" Text="Wav 音量" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Sound\tableLayoutPanel4" UniqueName="rbSndTimerTTS" Text="TTS:" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Sound\tableLayoutPanel4" UniqueName="rbSndTimerNone" Text="なし" />
     <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Sound\tableLayoutPanel4" UniqueName="rbSndTimerWAV" Text="WAV:" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Sound\tableLayoutPanel4" UniqueName="rbSndTimerBeep" Text="Beep" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Sound\tableLayoutPanel4" UniqueName="lblTimerExpireSound" Text="Timer expiration:" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Sound\tableLayoutPanel4" UniqueName="rbSndTimerBeep" Text="ビープ音" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Sound\tableLayoutPanel4" UniqueName="lblTimerExpireSound" Text="タイマー終了時:" />
     <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Sound\tableLayoutPanel4" UniqueName="btnSndTimerBrowse" Text="..." />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Sound\tableLayoutPanel3" UniqueName="rbSndWarnTTS" Text="TTS " />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Sound\tableLayoutPanel3" UniqueName="rbSndWarnNone" Text="None" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Sound\tableLayoutPanel3" UniqueName="rbSndWarnTTS" Text="TTS:" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Sound\tableLayoutPanel3" UniqueName="rbSndWarnNone" Text="なし" />
     <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Sound\tableLayoutPanel3" UniqueName="rbSndWarnWAV" Text="WAV:" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Sound\tableLayoutPanel3" UniqueName="rbSndWarnBeep" Text="Beep" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Sound\tableLayoutPanel3" UniqueName="lblTimerWarningSound" Text="Timer warning:" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Sound\tableLayoutPanel3" UniqueName="rbSndWarnBeep" Text="ビープ音" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Sound\tableLayoutPanel3" UniqueName="lblTimerWarningSound" Text="タイマー通知時:" />
     <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Sound\tableLayoutPanel3" UniqueName="btnSndWarnBrowse" Text="..." />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Sound\tableLayoutPanel2" UniqueName="rbSndStartTTS" Text="TTS " />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Sound\tableLayoutPanel2" UniqueName="rbSndStartNone" Text="None" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Sound\tableLayoutPanel2" UniqueName="rbSndStartTTS" Text="TTS:" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Sound\tableLayoutPanel2" UniqueName="rbSndStartNone" Text="なし" />
     <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Sound\tableLayoutPanel2" UniqueName="rbSndStartWAV" Text="WAV:" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Sound\tableLayoutPanel2" UniqueName="rbSndStartBeep" Text="Beep" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Sound\tableLayoutPanel2" UniqueName="rbSndStartBeep" Text="ビープ音" />
     <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Sound\tableLayoutPanel2" UniqueName="btnSndStartBrowse" Text="..." />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Sound\tableLayoutPanel2" UniqueName="lblTimerStartSound" Text="Timer started:" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Sound\tableLayoutPanel2" UniqueName="lblTimerStartSound" Text="タイマー開始時:" />
     <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Sound\tableLayoutPanel1" UniqueName="rbSndExportTTS" Text="TTS:" />
     <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Sound\tableLayoutPanel1" UniqueName="rbSndExportWAV" Text="WAV:" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Sound\tableLayoutPanel1" UniqueName="rbSndExportBeep" Text="Beep" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Sound\tableLayoutPanel1" UniqueName="rbSndExportNone" Text="None" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Sound\tableLayoutPanel1" UniqueName="lblExportSound" Text="Export sound:" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Sound\tableLayoutPanel1" UniqueName="rbSndExportBeep" Text="ビープ音" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Sound\tableLayoutPanel1" UniqueName="rbSndExportNone" Text="なし" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Sound\tableLayoutPanel1" UniqueName="lblExportSound" Text="エクスポート時:" />
     <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Sound\tableLayoutPanel1" UniqueName="btnSndExportBrowse" Text="..." />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorUserInterface" UniqueName="groupBox1" Text="Main User Interface" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorUserInterface\groupBox1" UniqueName="btnResetColors" Text="Reset" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorUserInterface\groupBox1\flowLayoutPanel1" UniqueName="fccMainWindow" Text="Main Window Colors" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorUserInterface\groupBox1\flowLayoutPanel1\fccMainWindow" UniqueName="lblText" Text="Main Window Colors" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorUserInterface\groupBox1\flowLayoutPanel1\fccMainWindow" UniqueName="lblForeColor" Text="Forecolor" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorUserInterface" UniqueName="groupBox1" Text="メインユーザインタフェース" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorUserInterface\groupBox1" UniqueName="btnResetColors" Text="リセット" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorUserInterface\groupBox1\flowLayoutPanel1" UniqueName="fccMainWindow" Text="メインウィンドウの色" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorUserInterface\groupBox1\flowLayoutPanel1\fccMainWindow" UniqueName="lblText" Text="メインウィンドウの色" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorUserInterface\groupBox1\flowLayoutPanel1\fccMainWindow" UniqueName="lblForeColor" Text="文字色" />
     <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorUserInterface\groupBox1\flowLayoutPanel1\fccMainWindow" UniqueName="btnFontDisplay" Text="Change Font" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorUserInterface\groupBox1\flowLayoutPanel1\fccMainWindow" UniqueName="lblBackColor" Text="Backcolor" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorUserInterface\groupBox1\flowLayoutPanel1" UniqueName="fccWindowColors" Text="Internal Window Colors" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorUserInterface\groupBox1\flowLayoutPanel1\fccWindowColors" UniqueName="lblText" Text="Internal Window Colors" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorUserInterface\groupBox1\flowLayoutPanel1\fccWindowColors" UniqueName="lblForeColor" Text="Forecolor" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorUserInterface\groupBox1\flowLayoutPanel1\fccWindowColors" UniqueName="btnFontDisplay" Text="Sample" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorUserInterface\groupBox1\flowLayoutPanel1\fccWindowColors" UniqueName="lblBackColor" Text="Backcolor" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorUserInterface\groupBox1\flowLayoutPanel1" UniqueName="fccTreeView" Text="TreeView Colors" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorUserInterface\groupBox1\flowLayoutPanel1\fccTreeView" UniqueName="lblText" Text="TreeView Colors" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorUserInterface\groupBox1\flowLayoutPanel1\fccTreeView" UniqueName="lblForeColor" Text="Forecolor" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorUserInterface\groupBox1\flowLayoutPanel1\fccMainWindow" UniqueName="lblBackColor" Text="背景色" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorUserInterface\groupBox1\flowLayoutPanel1" UniqueName="fccWindowColors" Text="内部ウィンドウの色" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorUserInterface\groupBox1\flowLayoutPanel1\fccWindowColors" UniqueName="lblText" Text="内部ウィンドウの色" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorUserInterface\groupBox1\flowLayoutPanel1\fccWindowColors" UniqueName="lblForeColor" Text="文字色" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorUserInterface\groupBox1\flowLayoutPanel1\fccWindowColors" UniqueName="btnFontDisplay" Text="サンプル" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorUserInterface\groupBox1\flowLayoutPanel1\fccWindowColors" UniqueName="lblBackColor" Text="背景色" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorUserInterface\groupBox1\flowLayoutPanel1" UniqueName="fccTreeView" Text="ツリービューの色" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorUserInterface\groupBox1\flowLayoutPanel1\fccTreeView" UniqueName="lblText" Text="ツリービューの色" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorUserInterface\groupBox1\flowLayoutPanel1\fccTreeView" UniqueName="lblForeColor" Text="文字色" />
     <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorUserInterface\groupBox1\flowLayoutPanel1\fccTreeView" UniqueName="btnFontDisplay" Text="Change Font" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorUserInterface\groupBox1\flowLayoutPanel1\fccTreeView" UniqueName="lblBackColor" Text="Backcolor" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorUserInterface\groupBox1\flowLayoutPanel1" UniqueName="ccEncLabel1" Text="Encounter Color 1" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorUserInterface\groupBox1\flowLayoutPanel1\ccEncLabel1" UniqueName="lblText" Text="Encounter Color 1" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorUserInterface\groupBox1\flowLayoutPanel1" UniqueName="ccEncLabel2" Text="Encounter Color 2" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorUserInterface\groupBox1\flowLayoutPanel1\ccEncLabel2" UniqueName="lblText" Text="Encounter Color 2" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorUserInterface\groupBox1\flowLayoutPanel1" UniqueName="ccEncLabel3" Text="Encounter Color 3" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorUserInterface\groupBox1\flowLayoutPanel1\ccEncLabel3" UniqueName="lblText" Text="Encounter Color 3" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorUserInterface\groupBox1\flowLayoutPanel1" UniqueName="fccDataGrid" Text="Data Grid Colors" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorUserInterface\groupBox1\flowLayoutPanel1\fccDataGrid" UniqueName="lblText" Text="Data Grid Colors" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorUserInterface\groupBox1\flowLayoutPanel1\fccDataGrid" UniqueName="lblForeColor" Text="Forecolor" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorUserInterface\groupBox1\flowLayoutPanel1\fccTreeView" UniqueName="lblBackColor" Text="背景色" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorUserInterface\groupBox1\flowLayoutPanel1" UniqueName="ccEncLabel1" Text="エンカウントの色 1" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorUserInterface\groupBox1\flowLayoutPanel1\ccEncLabel1" UniqueName="lblText" Text="エンカウントの色 1" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorUserInterface\groupBox1\flowLayoutPanel1" UniqueName="ccEncLabel2" Text="エンカウントの色 2" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorUserInterface\groupBox1\flowLayoutPanel1\ccEncLabel2" UniqueName="lblText" Text="エンカウントの色 2" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorUserInterface\groupBox1\flowLayoutPanel1" UniqueName="ccEncLabel3" Text="エンカウントの色 3" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorUserInterface\groupBox1\flowLayoutPanel1\ccEncLabel3" UniqueName="lblText" Text="エンカウントの色 3" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorUserInterface\groupBox1\flowLayoutPanel1" UniqueName="fccDataGrid" Text="データグリッドの色" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorUserInterface\groupBox1\flowLayoutPanel1\fccDataGrid" UniqueName="lblText" Text="データグリッドの色" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorUserInterface\groupBox1\flowLayoutPanel1\fccDataGrid" UniqueName="lblForeColor" Text="文字色" />
     <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorUserInterface\groupBox1\flowLayoutPanel1\fccDataGrid" UniqueName="btnFontDisplay" Text="Change Font" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorUserInterface\groupBox1\flowLayoutPanel1\fccDataGrid" UniqueName="lblBackColor" Text="Backcolor" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorUserInterface\groupBox1\flowLayoutPanel1" UniqueName="ccDGAllyText" Text="Ally Text Color" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorUserInterface\groupBox1\flowLayoutPanel1\ccDGAllyText" UniqueName="lblText" Text="Ally Text Color" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorUserInterface\groupBox1\flowLayoutPanel1" UniqueName="ccDGPersonalBackcolor" Text="Personal Cell Backcolor" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorUserInterface\groupBox1\flowLayoutPanel1\ccDGPersonalBackcolor" UniqueName="lblText" Text="Personal Cell Backcolor" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing" UniqueName="groupBox2" Text="Graph Fill Colors" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2" UniqueName="btnResetGraphFillColors" Text="Reset" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2" UniqueName="ccGraphFill1" Text="Graph Fill 01" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2\ccGraphFill1" UniqueName="lblText" Text="Graph Fill 01" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2" UniqueName="ccGraphFill2" Text="Graph Fill 02" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2\ccGraphFill2" UniqueName="lblText" Text="Graph Fill 02" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2" UniqueName="ccGraphFill3" Text="Graph Fill 03" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2\ccGraphFill3" UniqueName="lblText" Text="Graph Fill 03" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2" UniqueName="ccGraphFill4" Text="Graph Fill 04" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2\ccGraphFill4" UniqueName="lblText" Text="Graph Fill 04" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2" UniqueName="ccGraphFill5" Text="Graph Fill 05" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2\ccGraphFill5" UniqueName="lblText" Text="Graph Fill 05" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2" UniqueName="ccGraphFill6" Text="Graph Fill 06" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2\ccGraphFill6" UniqueName="lblText" Text="Graph Fill 06" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2" UniqueName="ccGraphFill7" Text="Graph Fill 07" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2\ccGraphFill7" UniqueName="lblText" Text="Graph Fill 07" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2" UniqueName="ccGraphFill8" Text="Graph Fill 08" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2\ccGraphFill8" UniqueName="lblText" Text="Graph Fill 08" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2" UniqueName="ccGraphFill9" Text="Graph Fill 09" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2\ccGraphFill9" UniqueName="lblText" Text="Graph Fill 09" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2" UniqueName="ccGraphFill10" Text="Graph Fill 10" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2\ccGraphFill10" UniqueName="lblText" Text="Graph Fill 10" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2" UniqueName="ccGraphFill11" Text="Graph Fill 11" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2\ccGraphFill11" UniqueName="lblText" Text="Graph Fill 11" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2" UniqueName="ccGraphFill12" Text="Graph Fill 12" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2\ccGraphFill12" UniqueName="lblText" Text="Graph Fill 12" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2" UniqueName="ccGraphFill13" Text="Graph Fill 13" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2\ccGraphFill13" UniqueName="lblText" Text="Graph Fill 13" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2" UniqueName="ccGraphFill14" Text="Graph Fill 14" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2\ccGraphFill14" UniqueName="lblText" Text="Graph Fill 14" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2" UniqueName="ccGraphFill15" Text="Graph Fill 15" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2\ccGraphFill15" UniqueName="lblText" Text="Graph Fill 15" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2" UniqueName="ccGraphFill16" Text="Graph Fill 16" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2\ccGraphFill16" UniqueName="lblText" Text="Graph Fill 16" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2" UniqueName="ccGraphFill17" Text="Graph Fill 17" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2\ccGraphFill17" UniqueName="lblText" Text="Graph Fill 17" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2" UniqueName="ccGraphFill18" Text="Graph Fill 18" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2\ccGraphFill18" UniqueName="lblText" Text="Graph Fill 18" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2" UniqueName="ccGraphFill19" Text="Graph Fill 19" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2\ccGraphFill19" UniqueName="lblText" Text="Graph Fill 19" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2" UniqueName="ccGraphFill20" Text="Graph Fill 20" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2\ccGraphFill20" UniqueName="lblText" Text="Graph Fill 20" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2" UniqueName="ccGraphFill21" Text="Graph Fill 21" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2\ccGraphFill21" UniqueName="lblText" Text="Graph Fill 21" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2" UniqueName="ccGraphFill22" Text="Graph Fill 22" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2\ccGraphFill22" UniqueName="lblText" Text="Graph Fill 22" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2" UniqueName="ccGraphFill23" Text="Graph Fill 23" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2\ccGraphFill23" UniqueName="lblText" Text="Graph Fill 23" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2" UniqueName="ccGraphFill24" Text="Graph Fill 24" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2\ccGraphFill24" UniqueName="lblText" Text="Graph Fill 24" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2" UniqueName="ccGraphFill25" Text="Graph Fill 25" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2\ccGraphFill25" UniqueName="lblText" Text="Graph Fill 25" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2" UniqueName="ccGraphFill26" Text="Graph Fill 26" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2\ccGraphFill26" UniqueName="lblText" Text="Graph Fill 26" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2" UniqueName="ccGraphFill27" Text="Graph Fill 27" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2\ccGraphFill27" UniqueName="lblText" Text="Graph Fill 27" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2" UniqueName="ccGraphFill28" Text="Graph Fill 28" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2\ccGraphFill28" UniqueName="lblText" Text="Graph Fill 28" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing" UniqueName="groupBox1" Text="Graph General Colors" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox1" UniqueName="btnResetEncBarColors" Text="Reset" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox1\flowLayoutPanel1" UniqueName="ccEncBarBackFill" Text="Graph background fill" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox1\flowLayoutPanel1\ccEncBarBackFill" UniqueName="lblText" Text="Graph background fill" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox1\flowLayoutPanel1" UniqueName="ccEncBarLegendText" Text="Axis legend text" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox1\flowLayoutPanel1\ccEncBarLegendText" UniqueName="lblText" Text="Axis legend text" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox1\flowLayoutPanel1" UniqueName="ccEncBarYLines" Text="Y-axis lines" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox1\flowLayoutPanel1\ccEncBarYLines" UniqueName="lblText" Text="Y-axis lines" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox1\flowLayoutPanel1" UniqueName="ccEncBarOutlining" Text="Outline pen" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox1\flowLayoutPanel1\ccEncBarOutlining" UniqueName="lblText" Text="Outline pen" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox1\flowLayoutPanel1" UniqueName="ccEncBarAvgText" Text="Average/Total Text" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox1\flowLayoutPanel1\ccEncBarAvgText" UniqueName="lblText" Text="Average/Total Text" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox1\flowLayoutPanel1" UniqueName="ccEncBarColor1" Text="Bar color 1" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox1\flowLayoutPanel1\ccEncBarColor1" UniqueName="lblText" Text="Bar color 1" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox1\flowLayoutPanel1" UniqueName="ccEncBarColor2" Text="Bar color 2" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox1\flowLayoutPanel1\ccEncBarColor2" UniqueName="lblText" Text="Bar color 2" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox1\flowLayoutPanel1" UniqueName="ccEncBarColor3" Text="Bar color 3" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox1\flowLayoutPanel1\ccEncBarColor3" UniqueName="lblText" Text="Bar color 3" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox1\flowLayoutPanel1" UniqueName="ccEncBarText" Text="Bar text color" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox1\flowLayoutPanel1\ccEncBarText" UniqueName="lblText" Text="Bar text color" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorMisc" UniqueName="groupBox1" Text="Spell Timer Window" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorMisc\groupBox1" UniqueName="btnResetColors" Text="Reset" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorMisc\groupBox1" UniqueName="ccSpellTimerForeColor" Text="Spell Timer Window Fore Color" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorMisc\groupBox1\ccSpellTimerForeColor" UniqueName="lblText" Text="Spell Timer Window Fore Color" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorMisc\groupBox1" UniqueName="ccSpellTimerExpireColor" Text="Spell Timer Warning Color" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorMisc\groupBox1\ccSpellTimerExpireColor" UniqueName="lblText" Text="Spell Timer Warning Color" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorMisc\groupBox1" UniqueName="ccSpellTimerWarnColor" Text="Spell Timer Warning Color" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorMisc\groupBox1\ccSpellTimerWarnColor" UniqueName="lblText" Text="Spell Timer Warning Color" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorMisc\groupBox1" UniqueName="ccSpellTimerBackColor" Text="Spell Timer Window Back Color" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorMisc\groupBox1\ccSpellTimerBackColor" UniqueName="lblText" Text="Spell Timer Window Back Color" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Misc" UniqueName="cbUnblockFiles" Text="Scan ACT folders and plugins for Internet downloads to unblock." />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Misc" UniqueName="label1" Text="Custom Trigger parsing may spawn up to this many additional threads: " />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Misc" UniqueName="groupBox11" Text="Cross Computer Clipboard Sharing" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Misc\groupBox11" UniqueName="lblClipStatus" Text="Not Connected." />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Misc\groupBox11" UniqueName="cbClipAutoConnect" Text="Connect to this IP automatically." />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Misc\groupBox11" UniqueName="cbClipConnect" Text="Connect" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Misc\groupBox11" UniqueName="label68" Text="When connected to the ACT Clipboard Sharer(get it from the ACT website), whenever text is exported by ACT to the clipboard, it is sent to the connected computer's clipboard.  This allows you to run ACT over the network and still paste data into the game.  Also usable for G15/G19 data.&#xD;&#xA;" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Misc\groupBox11" UniqueName="label17" Text="This feature is for users running ACT on a different machine than the game." />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Misc" UniqueName="gbFile" Text="Log File" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Misc\gbFile" UniqueName="cbbPauseLog" Text="Pause Log" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Misc\gbFile" UniqueName="lblSplitFile" Text="When opening or closing log files, attempt to rename the log if over this value (in megabytes):" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Misc\gbFile" UniqueName="cbAutoLoadLogs" Text="Auto-load recently changed log files." />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Misc\gbFile" UniqueName="lblLogFile" Text="No log file selected.  (Remember to turn /log ON)" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Misc\gbFile" UniqueName="btnCloseLog" Text="Close Log" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Misc\gbFile" UniqueName="btnOpenLog" Text="Open Log" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Misc" UniqueName="cbAutoSaveDatabase" Text="Once a minute, automatically save ACT's Encounter History Database. " />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Misc" UniqueName="cbAutoSaveSettings" Text="Once a minute, automatically save ACT's settings." />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Misc" UniqueName="cbGCollectOnClear" Text="Immediately attempt to free all unused memory from RAM when clearing encounters (may freeze ACT)" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Misc" UniqueName="label69" Text="Process CPU Affinity:" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Misc" UniqueName="lblLogPriority" Text="CPU Priority of normal log parsing:" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Misc" UniqueName="btnCpuAffinityApply" Text="Change/View" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Misc" UniqueName="cbMinimizeToIcon" Text="Minimize ACT to a tray icon." />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Misc" UniqueName="cbRecordLogs" Text="Record all log lines while parsing.  (View Logs context menu option)" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Misc" UniqueName="cbZoneAllListing" Text="Populate an 'All' encounter which includes all data from separate encounters within a zone.  (Not retroactive)" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Misc" UniqueName="cbRestrictToAll" Text="Only populate the 'All' entry for DamageType categories except those marked (Ref).  (Not retroactive)" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Misc\tableLayoutPanel1" UniqueName="btnResetLocs" Text="Reset Windows Loc/Size" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Misc\tableLayoutPanel1" UniqueName="btnShowStartupWiz" Text="Show Startup Wizard" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Misc\tableLayoutPanel1" UniqueName="btnShowPerfWiz" Text="Show Performance Wizard" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ImportExport" UniqueName="groupBox2" Text="Convert Config XML to XML Share Snippet" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorUserInterface\groupBox1\flowLayoutPanel1\fccDataGrid" UniqueName="lblBackColor" Text="背景色" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorUserInterface\groupBox1\flowLayoutPanel1" UniqueName="ccDGAllyText" Text="味方のテキストの色" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorUserInterface\groupBox1\flowLayoutPanel1\ccDGAllyText" UniqueName="lblText" Text="味方のテキストの色" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorUserInterface\groupBox1\flowLayoutPanel1" UniqueName="ccDGPersonalBackcolor" Text="自分の背景色" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorUserInterface\groupBox1\flowLayoutPanel1\ccDGPersonalBackcolor" UniqueName="lblText" Text="自分の背景色" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing" UniqueName="groupBox2" Text="グラフの描画色" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2" UniqueName="btnResetGraphFillColors" Text="リセット" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2" UniqueName="ccGraphFill1" Text="グラフ 01" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2\ccGraphFill1" UniqueName="lblText" Text="グラフ 01" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2" UniqueName="ccGraphFill2" Text="グラフ 02" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2\ccGraphFill2" UniqueName="lblText" Text="グラフ 02" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2" UniqueName="ccGraphFill3" Text="グラフ 03" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2\ccGraphFill3" UniqueName="lblText" Text="グラフ 03" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2" UniqueName="ccGraphFill4" Text="グラフ 04" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2\ccGraphFill4" UniqueName="lblText" Text="グラフ 04" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2" UniqueName="ccGraphFill5" Text="グラフ 05" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2\ccGraphFill5" UniqueName="lblText" Text="グラフ 05" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2" UniqueName="ccGraphFill6" Text="グラフ 06" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2\ccGraphFill6" UniqueName="lblText" Text="グラフ 06" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2" UniqueName="ccGraphFill7" Text="グラフ 07" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2\ccGraphFill7" UniqueName="lblText" Text="グラフ 07" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2" UniqueName="ccGraphFill8" Text="グラフ 08" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2\ccGraphFill8" UniqueName="lblText" Text="グラフ 08" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2" UniqueName="ccGraphFill9" Text="グラフ 09" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2\ccGraphFill9" UniqueName="lblText" Text="グラフ 09" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2" UniqueName="ccGraphFill10" Text="グラフ 10" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2\ccGraphFill10" UniqueName="lblText" Text="グラフ 10" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2" UniqueName="ccGraphFill11" Text="グラフ 11" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2\ccGraphFill11" UniqueName="lblText" Text="グラフ 11" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2" UniqueName="ccGraphFill12" Text="グラフ 12" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2\ccGraphFill12" UniqueName="lblText" Text="グラフ 12" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2" UniqueName="ccGraphFill13" Text="グラフ 13" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2\ccGraphFill13" UniqueName="lblText" Text="グラフ 13" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2" UniqueName="ccGraphFill14" Text="グラフ 14" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2\ccGraphFill14" UniqueName="lblText" Text="グラフ 14" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2" UniqueName="ccGraphFill15" Text="グラフ 15" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2\ccGraphFill15" UniqueName="lblText" Text="グラフ 15" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2" UniqueName="ccGraphFill16" Text="グラフ 16" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2\ccGraphFill16" UniqueName="lblText" Text="グラフ 16" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2" UniqueName="ccGraphFill17" Text="グラフ 17" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2\ccGraphFill17" UniqueName="lblText" Text="グラフ 17" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2" UniqueName="ccGraphFill18" Text="グラフ 18" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2\ccGraphFill18" UniqueName="lblText" Text="グラフ 18" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2" UniqueName="ccGraphFill19" Text="グラフ 19" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2\ccGraphFill19" UniqueName="lblText" Text="グラフ 19" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2" UniqueName="ccGraphFill20" Text="グラフ 20" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2\ccGraphFill20" UniqueName="lblText" Text="グラフ 20" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2" UniqueName="ccGraphFill21" Text="グラフ 21" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2\ccGraphFill21" UniqueName="lblText" Text="グラフ 21" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2" UniqueName="ccGraphFill22" Text="グラフ 22" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2\ccGraphFill22" UniqueName="lblText" Text="グラフ 22" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2" UniqueName="ccGraphFill23" Text="グラフ 23" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2\ccGraphFill23" UniqueName="lblText" Text="グラフ 23" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2" UniqueName="ccGraphFill24" Text="グラフ 24" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2\ccGraphFill24" UniqueName="lblText" Text="グラフ 24" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2" UniqueName="ccGraphFill25" Text="グラフ 25" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2\ccGraphFill25" UniqueName="lblText" Text="グラフ 25" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2" UniqueName="ccGraphFill26" Text="グラフ 26" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2\ccGraphFill26" UniqueName="lblText" Text="グラフ 26" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2" UniqueName="ccGraphFill27" Text="グラフ 27" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2\ccGraphFill27" UniqueName="lblText" Text="グラフ 27" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2" UniqueName="ccGraphFill28" Text="グラフ 28" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox2\flowLayoutPanel2\ccGraphFill28" UniqueName="lblText" Text="グラフ 28" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing" UniqueName="groupBox1" Text="全般的なグラフの色設定" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox1" UniqueName="btnResetEncBarColors" Text="リセット" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox1\flowLayoutPanel1" UniqueName="ccEncBarBackFill" Text="グラフの背景色" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox1\flowLayoutPanel1\ccEncBarBackFill" UniqueName="lblText" Text="グラフの背景色" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox1\flowLayoutPanel1" UniqueName="ccEncBarLegendText" Text="軸の凡例" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox1\flowLayoutPanel1\ccEncBarLegendText" UniqueName="lblText" Text="軸の凡例" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox1\flowLayoutPanel1" UniqueName="ccEncBarYLines" Text="Y軸" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox1\flowLayoutPanel1\ccEncBarYLines" UniqueName="lblText" Text="Y軸" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox1\flowLayoutPanel1" UniqueName="ccEncBarOutlining" Text="輪郭" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox1\flowLayoutPanel1\ccEncBarOutlining" UniqueName="lblText" Text="輪郭" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox1\flowLayoutPanel1" UniqueName="ccEncBarAvgText" Text="平均/合計" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox1\flowLayoutPanel1\ccEncBarAvgText" UniqueName="lblText" Text="平均/合計" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox1\flowLayoutPanel1" UniqueName="ccEncBarColor1" Text="棒グラフの色 1" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox1\flowLayoutPanel1\ccEncBarColor1" UniqueName="lblText" Text="棒グラフの色 1" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox1\flowLayoutPanel1" UniqueName="ccEncBarColor2" Text="棒グラフの色 2" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox1\flowLayoutPanel1\ccEncBarColor2" UniqueName="lblText" Text="棒グラフの色 2" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox1\flowLayoutPanel1" UniqueName="ccEncBarColor3" Text="棒グラフの色 3" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox1\flowLayoutPanel1\ccEncBarColor3" UniqueName="lblText" Text="棒グラフの色 3" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox1\flowLayoutPanel1" UniqueName="ccEncBarText" Text="棒グラフのテキストの色" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorGraphing\groupBox1\flowLayoutPanel1\ccEncBarText" UniqueName="lblText" Text="棒グラフのテキストの色" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorMisc" UniqueName="groupBox1" Text="スペルタイマーウィンドウ" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorMisc\groupBox1" UniqueName="btnResetColors" Text="リセット" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorMisc\groupBox1" UniqueName="ccSpellTimerForeColor" Text="スペルタイマーウィンドウの文字色" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorMisc\groupBox1\ccSpellTimerForeColor" UniqueName="lblText" Text="スペルタイマーウィンドウの文字色" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorMisc\groupBox1" UniqueName="ccSpellTimerExpireColor" Text="スペルタイマーの通知の色" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorMisc\groupBox1\ccSpellTimerExpireColor" UniqueName="lblText" Text="スペルタイマーの通知の色" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorMisc\groupBox1" UniqueName="ccSpellTimerWarnColor" Text="スペルタイマーの通知の色" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorMisc\groupBox1\ccSpellTimerWarnColor" UniqueName="lblText" Text="スペルタイマーの通知の色" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorMisc\groupBox1" UniqueName="ccSpellTimerBackColor" Text="スペルタイマーウィンドウの背景色" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ColorMisc\groupBox1\ccSpellTimerBackColor" UniqueName="lblText" Text="スペルタイマーウィンドウの背景色" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Misc" UniqueName="cbUnblockFiles" Text="プラグインのブロックを解除するためにフォルダをスキャンする" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Misc" UniqueName="label1" Text="カスタムトリガーの解析に使用するスレッド数: " />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Misc" UniqueName="groupBox11" Text="コンピュータ間のクリップボード共有" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Misc\groupBox11" UniqueName="lblClipStatus" Text="未接続" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Misc\groupBox11" UniqueName="cbClipAutoConnect" Text="このIPに自動で接続する" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Misc\groupBox11" UniqueName="cbClipConnect" Text="接続" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Misc\groupBox11" UniqueName="label68" Text="ACTのクリップボード共有(ACTのWebサイトから入手して下さい)に接続している間は、常にテキストがクリップボードに出力され、接続されたコンピュータのクリップボードに送信されます。これによってネットワーク経由でACTを起動してゲームと接続することができます。G15/G19のデータも利用可能です。&#xD;&#xA;" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Misc\groupBox11" UniqueName="label17" Text="これはACTとゲームを別のPCで起動しているユーザ向けの機能です。" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Misc" UniqueName="gbFile" Text="ログファイル" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Misc\gbFile" UniqueName="cbbPauseLog" Text="停止" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Misc\gbFile" UniqueName="lblSplitFile" Text="ログファイルが次のファイルサイズ(単位:MB)を超えた場合に自動でリネームする:" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Misc\gbFile" UniqueName="cbAutoLoadLogs" Text="最後に変更があったログファイルを自動で読み込む" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Misc\gbFile" UniqueName="lblLogFile" Text="ログファイルが選択されていません" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Misc\gbFile" UniqueName="btnCloseLog" Text="閉じる" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Misc\gbFile" UniqueName="btnOpenLog" Text="開く" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Misc" UniqueName="cbAutoSaveDatabase" Text="エンカウントデータベースを自動保存する" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Misc" UniqueName="cbAutoSaveSettings" Text="ACTの設定を自動保存する" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Misc" UniqueName="cbGCollectOnClear" Text="エンカウントをクリアしたらすぐにメモリを開放する(ACTがフリーズする場合があります)" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Misc" UniqueName="label69" Text="CPU割当:" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Misc" UniqueName="lblLogPriority" Text="CPU優先度:" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Misc" UniqueName="btnCpuAffinityApply" Text="設定" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Misc" UniqueName="cbMinimizeToIcon" Text="タスクトレイに最小化する" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Misc" UniqueName="cbRecordLogs" Text="解析データをすべて記録する" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Misc" UniqueName="cbZoneAllListing" Text="同じエリアでの戦闘を 'All' エンカウントにまとめる" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Misc" UniqueName="cbRestrictToAll" Text="Damage Typesカテゴリで選択された項目のみを 'ALL' エントリー(ref)にまとめる" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Misc\tableLayoutPanel1" UniqueName="btnResetLocs" Text="ウィンドウサイズ初期化" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Misc\tableLayoutPanel1" UniqueName="btnShowStartupWiz" Text="初回起動設定" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_Misc\tableLayoutPanel1" UniqueName="btnShowPerfWiz" Text="パフォーマンス設定" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ImportExport" UniqueName="groupBox2" Text="設定XMLをXML共有スニペットに変換" />
     <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ImportExport\groupBox2" UniqueName="lblXmlSnippetStatus" Text=" " />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ImportExport\groupBox2" UniqueName="btnConvertXmlSnippet" Text="Convert to XML Snippet" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ImportExport" UniqueName="groupBox1" Text="Load ACT configuration backups" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ImportExport\groupBox1" UniqueName="btnLoadSelected" Text="Load Backup" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ImportExport\groupBox1" UniqueName="btnRefreshListing" Text="Refresh" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ImportExport" UniqueName="label9" Text="Import/Export ACT Settings ..." />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ImportExport" UniqueName="btnExportSettings" Text="Export..." />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ImportExport" UniqueName="btnImportSettings" Text="Import..." />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_SelectiveParsing" UniqueName="groupBox19" Text="Batch Remove Players" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_SelectiveParsing\groupBox19" UniqueName="btnSParseClear" Text="Clear Entire List" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_SelectiveParsing\groupBox19" UniqueName="btnSParseCull" Text="Clear Unchecked" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_SelectiveParsing\groupBox19" UniqueName="btnSParseUncheckAll" Text="Uncheck All" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_SelectiveParsing" UniqueName="groupBox18" Text="Add/Remove Players" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_SelectiveParsing\groupBox18" UniqueName="btnSParseAddPlayer" Text="&amp;Add" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_SelectiveParsing\groupBox18" UniqueName="btnSParseRemovePlayer" Text="&amp;Remove" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_SelectiveParsing" UniqueName="groupBox17" Text="Combatant Limiting" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_SelectiveParsing\groupBox17" UniqueName="cbSParseIgnoreEnemies" Text="Never show non-whitelisted combatants" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_SelectiveParsing\groupBox17" UniqueName="rbSParseNone" Text="No selective parsing (Rely on automatic ally detection)" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_SelectiveParsing\groupBox17" UniqueName="rbSParseExport" Text="Show only listed combatants in graphs/text exports" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_SelectiveParsing\groupBox17" UniqueName="rbSParseFull" Text="Only record combat actions taken by/against listed" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_SelectiveParsing\groupBox17" UniqueName="cbSParseExportIgnoreOtherAllies" Text="In &quot;allied&quot; totals, only include listed players" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_DataCorrectionMisc" UniqueName="cbCalcRealAvgDly" Text="When calculating average delay, group together multiple hits in a single second.  (More accurate)" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_DataCorrectionMisc" UniqueName="btnCharNameApply" Text="Apply" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_DataCorrectionMisc" UniqueName="lblCharName" Text="Default character name if not defined by the log file name." />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_DataCorrectionMisc" UniqueName="cbBlockisHit" Text="Count a hit that inflicts no damage as a Hit in calculations." />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_DataCorrectionMisc" UniqueName="cbLongEncDuration" Text="Allow heals to extend an encounter's duration past the last damage action." />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_DataCorrectionRename" UniqueName="label82" Text="After" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_DataCorrectionRename" UniqueName="label81" Text="Before" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_DataCorrectionRename" UniqueName="btnRenameAdd" Text="Add Correction" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_DataCorrectionRename" UniqueName="btnRenameRemove" Text="Remove Correction" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_DataCorrectionRename" UniqueName="label80" Text="Rename a combatant to a new one, or merge into an old one" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_DataCorrectionRedirect" UniqueName="label97" Text="Into" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_DataCorrectionRedirect" UniqueName="label96" Text="Abilty" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_DataCorrectionRedirect" UniqueName="btnAbilityRedirectRemove" Text="Remove Correction" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_DataCorrectionRedirect" UniqueName="btnAbilityRedirectAdd" Text="Add Correction" />
-    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_DataCorrectionRedirect" UniqueName="label95" Text="Redirect damage done by a specific ability name into a combatant" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ImportExport\groupBox2" UniqueName="btnConvertXmlSnippet" Text="XMLスニペットに変換" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ImportExport" UniqueName="groupBox1" Text="ACT設定のバックアップ履歴" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ImportExport\groupBox1" UniqueName="btnLoadSelected" Text="バックアップを読み込み" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ImportExport\groupBox1" UniqueName="btnRefreshListing" Text="更新" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ImportExport" UniqueName="label9" Text="ACT設定のインポート/エクスポート" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ImportExport" UniqueName="btnExportSettings" Text="エクスポート" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_ImportExport" UniqueName="btnImportSettings" Text="インポート" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_SelectiveParsing" UniqueName="groupBox19" Text="プレイヤーの一括削除" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_SelectiveParsing\groupBox19" UniqueName="btnSParseClear" Text="すべてのリストをクリア" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_SelectiveParsing\groupBox19" UniqueName="btnSParseCull" Text="未チェックをクリア" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_SelectiveParsing\groupBox19" UniqueName="btnSParseUncheckAll" Text="すべてのチェックを外す" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_SelectiveParsing" UniqueName="groupBox18" Text="プレイヤーの追加/削除" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_SelectiveParsing\groupBox18" UniqueName="btnSParseAddPlayer" Text="&amp;追加" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_SelectiveParsing\groupBox18" UniqueName="btnSParseRemovePlayer" Text="&amp;削除" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_SelectiveParsing" UniqueName="groupBox17" Text="プレイヤーの制限" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_SelectiveParsing\groupBox17" UniqueName="cbSParseIgnoreEnemies" Text="ホワイトリストにないプレイヤーは非表示" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_SelectiveParsing\groupBox17" UniqueName="rbSParseNone" Text="選択的な解析をしない(味方の自動検出に依存)" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_SelectiveParsing\groupBox17" UniqueName="rbSParseExport" Text="グラフとエクスポートテキスト内の味方のみ表示" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_SelectiveParsing\groupBox17" UniqueName="rbSParseFull" Text="与/被ダメージに関連する戦闘アクションのみ記録" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_SelectiveParsing\groupBox17" UniqueName="cbSParseExportIgnoreOtherAllies" Text="&quot;味方&quot;の合計にはリストされたプレイヤーのみ含める" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_DataCorrectionMisc" UniqueName="cbCalcRealAvgDly" Text="遅延の平均を計算する際に複数回ヒットをグループ化する(より正確な計測)" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_DataCorrectionMisc" UniqueName="btnCharNameApply" Text="適用" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_DataCorrectionMisc" UniqueName="lblCharName" Text="デフォルトプレイヤー名(ログファイルで定義されていない場合):" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_DataCorrectionMisc" UniqueName="cbBlockisHit" Text="ダメージを与えなかった場合も計測する" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_DataCorrectionMisc" UniqueName="cbLongEncDuration" Text="ヒールをした場合もエンカウントの継続を行う" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_DataCorrectionRename" UniqueName="label82" Text="置換後" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_DataCorrectionRename" UniqueName="label81" Text="置換前" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_DataCorrectionRename" UniqueName="btnRenameAdd" Text="コレクションに追加" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_DataCorrectionRename" UniqueName="btnRenameRemove" Text="コレクションから削除" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_DataCorrectionRename" UniqueName="label80" Text="プレイヤー名の変更" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_DataCorrectionRedirect" UniqueName="label97" Text="リダイレクト先" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_DataCorrectionRedirect" UniqueName="label96" Text="アビリティ" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_DataCorrectionRedirect" UniqueName="btnAbilityRedirectRemove" Text="コレクションから削除" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_DataCorrectionRedirect" UniqueName="btnAbilityRedirectAdd" Text="コレクションに追加" />
+    <Control ControlPath="root\tc1\tpOptions\flpOptionControls\Options_DataCorrectionRedirect" UniqueName="label95" Text="指定したアビリティによるダメージをプレイヤーにリダイレクトする" />
     <Control ControlPath="root\tc1\tpOptions\tableLayoutPanel12" UniqueName="btnOptionSearchClear" Text="Clear" />
     <Control ControlPath="root\tc1" UniqueName="tpTriggers" Text="Custom Triggers" />
     <Control ControlPath="root\tc1\tpTriggers" UniqueName="btnOpenCtBenchmark" Text="Benchmark CTs" />
