@@ -9,9 +9,9 @@
     <Control ControlPath="root\tc1\tpMain\pLeftView\pTvBtns\tableLayoutPanel11" UniqueName="btnClear" Text="&amp;エンカウント消去" />
     <Control ControlPath="root\tc1\tpMain\pLeftView\pTvBtns\tableLayoutPanel11" UniqueName="btnEndEnc" Text="&amp;エンカウント終了" />
     <Control ControlPath="root\tc1\tpMain\pLeftView\pTvBtns\tableLayoutPanel11" UniqueName="btnRefresh" Text="&amp;リスト更新" />
-    <Control ControlPath="root\tc1\tpMain\pLeftView\pTvBtns\tableLayoutPanel11" UniqueName="btnCDSearch" Text="&amp;検索..." />
-    <Control ControlPath="root\tc1\tpMain\pLeftView\pTvBtns" UniqueName="btnMergeChecked" Text="チェック済みをマージ" />
-    <Control ControlPath="root\tc1\tpMain\pLeftView\pTvBtns" UniqueName="btnDeleteChecked" Text="チェック済みを削除" />
+    <Control ControlPath="root\tc1\tpMain\pLeftView\pTvBtns\tableLayoutPanel11" UniqueName="btnCDSearch" Text="&amp;検索" />
+    <Control ControlPath="root\tc1\tpMain\pLeftView\pTvBtns" UniqueName="btnMergeChecked" Text="ﾁｪｯｸ済みをマージ" />
+    <Control ControlPath="root\tc1\tpMain\pLeftView\pTvBtns" UniqueName="btnDeleteChecked" Text="ﾁｪｯｸ済みを削除" />
     <Control ControlPath="root\tc1\tpMain\pLeftView\pTvBtns" UniqueName="cbShowChecks" Text="チェックボックス表示 (マージ/削除)" />
     <Control ControlPath="root\tc1\tpMain\pLeftView\pTvBtns" UniqueName="cbLockDG" Text="&amp;テーブル自動更新を無効化" />
     <Control ControlPath="root\tc1" UniqueName="tpOptions" Text="オプション" />
@@ -460,7 +460,7 @@
     <Control ControlPath="root\tc1\tpPlugins\tcPlugins\tabPage1\flpPluginButtons" UniqueName="btnGetAssemblies" Text="ロードされたアセンブリを見る" />
     <Control ControlPath="root\tc1\tpPlugins\tcPlugins\tabPage1" UniqueName="groupBox3" Text="プラグイン情報" />
     <Control ControlPath="root\tc1\tpPlugins\tcPlugins\tabPage1\panel15" UniqueName="btnAddPluginPanel" Text="追加/有効化" />
-    <Control ControlPath="root\tc1\tpPlugins\tcPlugins\tabPage1\panel15" UniqueName="btnPluginBrowse" Text="閲覧..." />
+    <Control ControlPath="root\tc1\tpPlugins\tcPlugins\tabPage1\panel15" UniqueName="btnPluginBrowse" Text="開く" />
     <Control ControlPath="root\tc1" UniqueName="tpImportExport" Text="インポート/エクスポート" />
     <Control ControlPath="root\tc1\tpImportExport\flpIoControls\IO_ImportClip" UniqueName="btnImportClip" Text="クリップボードのインポート" />
     <Control ControlPath="root\tc1\tpImportExport\flpIoControls\IO_ImportClip" UniqueName="btnRefreshClipStats" Text="クリップボードの検査" />
@@ -534,7 +534,7 @@
     <Control ControlPath="root\tc1\tpAbout\gbAbout" UniqueName="cbAutoCheck" Text="自動バージョンチェック" />
     <Control ControlPath="root\tc1\tpAbout\gbAbout" UniqueName="btnCheckVer" Text="今すぐ更新を確認する" />
     <Control ControlPath="root\tc1\tpAbout\gbAbout" UniqueName="label5" Text="バージョン:" />
-    <Control ControlPath="root\tc1\tpAbout\gbAbout" UniqueName="linkURL" Text="メインサイト" />
+    <Control ControlPath="root\tc1\tpAbout\gbAbout" UniqueName="linkURL" Text="Webサイト" />
     <Control ControlPath="root\tc1\tpAbout\gbAbout" UniqueName="label4" Text="作者: EQAditu (EQ2-Skyfire)" />
     <Control ControlPath="root\tc1\tpAbout\gbAbout" UniqueName="linkEmail" Text="aditu@advancedcombattracker.com" />
     <Control ControlPath="root\tc1\tpAbout\gbAbout" UniqueName="label7" Text="リンク:" />

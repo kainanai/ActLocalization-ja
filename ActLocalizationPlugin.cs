@@ -7,7 +7,7 @@ using System.Xml;
 
 [assembly: AssemblyTitle("ActLocalization ja-JP")]
 [assembly: AssemblyDescription("ACTの日本語化を行うプラグインです.")]
-[assembly: AssemblyVersion("268.0.0.0")]
+[assembly: AssemblyVersion("268.0.1.0")]
 
 namespace ActLocalization
 {

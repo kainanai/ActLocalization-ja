@@ -66,6 +66,7 @@
     <EmbeddedResource Include="Advanced Combat Tracker.exe.FormTimeLine.xml" />
     <EmbeddedResource Include="Advanced Combat Tracker.exe.FormUpdater.xml" />
     <EmbeddedResource Include="Advanced Combat Tracker.exe.FormXmlSettingsIO.xml" />
+    <EmbeddedResource Include="Advanced Combat Tracker.historydb.xml" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Advanced Combat Tracker.exe.InternalStrings.xml" />
